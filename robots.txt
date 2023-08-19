@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodenfwasu.github.io/sitemap.xml
